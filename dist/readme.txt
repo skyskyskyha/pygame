@@ -1,0 +1,1 @@
+此为flappy bird的无敌版加简化版，点击platformer.exe 开始游戏！
